@@ -82,6 +82,8 @@
                             <bundles>
                                 <bundleDef>org.wso2.orbit.org.apache.commons:commons-compress</bundleDef>
                                 <bundleDef>org.wso2.orbit.org.apache.xmlbeans:xmlbeans</bundleDef>
+                                <bundleDef>org.wso2.orbit.org.apache.poi:poi-ooxml</bundleDef>
+                                <bundleDef>org.wso2.orbit.org.apache.poi:poi-scratchpad</bundleDef>
                             </bundles>
                         </configuration>
                     </execution>

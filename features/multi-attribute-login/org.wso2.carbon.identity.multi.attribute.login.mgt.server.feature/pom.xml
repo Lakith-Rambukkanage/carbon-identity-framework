@@ -62,6 +62,12 @@
                                 <bundleDef>
                                     org.wso2.carbon.identity.framework:org.wso2.carbon.identity.multi.attribute.login.mgt
                                 </bundleDef>
+                                <bundleDef>
+                                    org.wso2.carbon:org.wso2.carbon.user.core
+                                </bundleDef>
+                                <bundleDef>
+                                    org.wso2.carbon:org.wso2.carbon.utils
+                                </bundleDef>
                             </bundles>
                         </configuration>
                     </execution>
